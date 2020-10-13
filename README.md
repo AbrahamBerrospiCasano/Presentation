@@ -12,3 +12,6 @@ Interests :
 
 Free Magazines that I Read :
 <a href="https://towardsdatascience.com"><code><img src="https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png" width="24"/></code></a>
+
+The scientific dissemination channels that I like:
+<a href="https://www.youtube.com/user/DNewsChannel"><code><img src="https://yt3.ggpht.com/a/AATXAJxZx1UIdkwdnMCfLzbNwLgM90098RcrOPRKPdFvAU4=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
