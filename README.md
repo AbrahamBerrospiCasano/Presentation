@@ -13,11 +13,14 @@ Interests :
 Magazines that I Read :
 <a href="https://towardsdatascience.com"><code><img src="https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png" width="24"/></code></a>
 
-Open Journals that I Read (Learnd and Enjoy 😎) : 
-<a href="https://www.scirp.org/"><code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbnVZb0aqiv5tOUK8foRWrfkj34idIoKeXeQ&usqp=CAU" width="24"/></code></a>
-
 The scientific dissemination channels that I like:
 <a href="https://www.youtube.com/user/DNewsChannel"><code><img src="https://yt3.ggpht.com/a/AATXAJxZx1UIdkwdnMCfLzbNwLgM90098RcrOPRKPdFvAU4=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/user/crashcourse/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJwqTP631y63gzRfteNeRY6OZgsyIBhZWWlS6UvA2g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/user/1veritasium"><code><img src="https://yt3.ggpht.com/a/AATXAJw91NvQRluSvZoLrGXkwMC6r0CwYjD58HftKSul8g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/c/3blue1brown/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
+
+OPEN ACCSES (Enjoy and Learnd 😎)
+
+Open Journals that I Read  : 
+<a href="https://www.scirp.org/"><code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbnVZb0aqiv5tOUK8foRWrfkj34idIoKeXeQ&usqp=CAU" width="24"/></code></a>
+<a href="https://www.mdpi.com/"><code><img src="https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286" width="24"/></code></a>
