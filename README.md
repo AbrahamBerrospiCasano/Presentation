@@ -11,4 +11,4 @@ Interests :
 <a href="https://www.raspberrypi.org"><code><img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24"/></code></a>
 
 Free Magazines that I Read :
-<a href="https://towardsdatascience.com/><code>
+<a href="https://towardsdatascience.com/><code><img src="https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png" width="24"/></code></a>
