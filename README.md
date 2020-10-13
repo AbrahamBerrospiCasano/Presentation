@@ -17,3 +17,4 @@ The scientific dissemination channels that I like:
 <a href="https://www.youtube.com/user/DNewsChannel"><code><img src="https://yt3.ggpht.com/a/AATXAJxZx1UIdkwdnMCfLzbNwLgM90098RcrOPRKPdFvAU4=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/user/crashcourse/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJwqTP631y63gzRfteNeRY6OZgsyIBhZWWlS6UvA2g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/user/1veritasium"><code><img src="https://yt3.ggpht.com/a/AATXAJw91NvQRluSvZoLrGXkwMC6r0CwYjD58HftKSul8g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
+<a href="https://www.youtube.com/c/3blue1brown/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
