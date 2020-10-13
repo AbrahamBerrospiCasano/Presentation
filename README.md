@@ -13,6 +13,9 @@ Interests :
 Magazines that I Read :
 <a href="https://towardsdatascience.com"><code><img src="https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png" width="24"/></code></a>
 
+Open Journals that I Read (Learnd and Enjoy 😎) : 
+<a href="https://www.scirp.org/"><code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbnVZb0aqiv5tOUK8foRWrfkj34idIoKeXeQ&usqp=CAU" width="24"/></code></a>
+
 The scientific dissemination channels that I like:
 <a href="https://www.youtube.com/user/DNewsChannel"><code><img src="https://yt3.ggpht.com/a/AATXAJxZx1UIdkwdnMCfLzbNwLgM90098RcrOPRKPdFvAU4=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/user/crashcourse/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJwqTP631y63gzRfteNeRY6OZgsyIBhZWWlS6UvA2g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
