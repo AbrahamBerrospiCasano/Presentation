@@ -29,3 +29,8 @@ Open Journals that I Read  :
 interested in artificial intelligence 🧠 and computational complexity theory 🖥 and Criptology 🐱‍💻
 
 P = NP ?
+
+Mathematics is a language in which it is possible to express very complex
+and sophisticated ideas. Unfortunately it is a language in which 99% of the human
+race is not fluent, although many people have some basic knowledge of it
+from early experiences (not always pleasant ones) at school.
