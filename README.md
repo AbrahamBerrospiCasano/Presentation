@@ -18,6 +18,7 @@ The scientific dissemination channels that I like:
 <a href="https://www.youtube.com/user/crashcourse/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJwqTP631y63gzRfteNeRY6OZgsyIBhZWWlS6UvA2g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/user/1veritasium"><code><img src="https://yt3.ggpht.com/a/AATXAJw91NvQRluSvZoLrGXkwMC6r0CwYjD58HftKSul8g=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
 <a href="https://www.youtube.com/c/3blue1brown/featured"><code><img src="https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s144-c-k-c0xffffffff-no-rj-mo" width="24"/></code></a>
+<a href="https://www.youtube.com/channel/UCAvg7yOE4-25TPDUeKFUztA"><code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk7DtKD2Ri1ZMbRipqJ5G_9_ktP2I4X-Us1A&usqp=CAU" width="24"/></code></a>
 
 OPEN ACCSES (Enjoy and Learnd 😎)
 
