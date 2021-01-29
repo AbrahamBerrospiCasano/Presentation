@@ -29,8 +29,6 @@ Open Journals that I Read  :
 
 interested in artificial intelligence 🧠 and computational complexity theory 🖥 and Criptology 🐱‍💻
 
-{{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
-
 P = NP ?
 
 Mathematics is a language in which it is possible to express very complex
