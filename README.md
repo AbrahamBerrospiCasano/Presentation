@@ -26,12 +26,3 @@ Open Journals that I Read  :
 <a href="https://www.scirp.org/"><code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbnVZb0aqiv5tOUK8foRWrfkj34idIoKeXeQ&usqp=CAU" width="24"/></code></a>
 <a href="https://www.mdpi.com/"><code><img src="https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286" width="24"/></code></a>
 <a href="https://core.ac.uk/"><code><img src="https://core.ac.uk/resources/core-logo.png" width="24"/></code></a>
-
-interested in artificial intelligence 🧠 and computational complexity theory 🖥 and Criptology 🐱‍💻
-
-P = NP ?
-
-Mathematics is a language in which it is possible to express very complex
-and sophisticated ideas. Unfortunately it is a language in which 99% of the human
-race is not fluent, although many people have some basic knowledge of it
-from early experiences (not always pleasant ones) at school.
